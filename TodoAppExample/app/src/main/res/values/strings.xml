@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="app_welcome">Bienvenido</string>
+    <string name="app_categoryTitle">Categorias:</string>
+    <string name="app_tasksTitle">Tareas:</string>
+    <string name="app_businessTitle">Business</string>
+    <string name="app_personalTitle">Personal</string>
+    <string name="app_otherTitle">Other</string>
+</resources>
